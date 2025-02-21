@@ -1,5 +1,5 @@
 # Zomato_clone (UI only)
-A responsive Zomato-inspired web layout built using HTML, CSS, and Bootstrap. This project replicates the visual design of Zomato, including the homepage, restaurant listings, and other key UI elements.
+A responsive Zomato-inspired web layout built using HTML, CSS, and Bootstrap. This project replicates the visual design of Zomato, including the homepage, popular localities, and other key UI elements.
 
 * Features 
 1. Fully responsive design
